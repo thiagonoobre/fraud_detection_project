@@ -42,7 +42,7 @@ sns.set_style('darkgrid', {'axes.facecolor': '0.9'})
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ## 1. Simulador de Dados de transação - Camada 'Raw'
+# MAGIC ## 1. Simulador de Dados de transação - Camada Raw
 
 # COMMAND ----------
 
